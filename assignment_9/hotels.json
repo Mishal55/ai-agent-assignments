@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pearl Continental",
+    "city": "Karachi",
+    "amenities": ["pool", "wifi", "gym"]
+  },
+  {
+    "name": "Serena Hotel",
+    "city": "Islamabad",
+    "amenities": ["spa", "wifi"]
+  }
+]
